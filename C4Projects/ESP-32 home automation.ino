@@ -7,8 +7,6 @@
 int white_light=16;
 int light=4;
 int light1=18;
-const unsigned long channel_id=989140; //your channel id here
-const char write_api_key[]="XK4FD10YPUDXUF3M";
 //required header files
 #include <String.h>
 #

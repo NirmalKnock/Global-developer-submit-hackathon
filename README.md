@@ -1,7 +1,7 @@
 # Global-developer-submit-hackathon
 We made Iot based Home automation using Alexa
-##Requirements:
+## Requirements:
 ![OverView of the project](https://github.com/NirmalKnock/images/blob/master/iot.jpg)
-##Relay
+## Relay
 ![Relay](https://github.com/NirmalKnock/images/blob/master/relay.jfif)
-![Sinric]()
+![Sinric](https://sinric.com/login?returnUrl=%2F)
